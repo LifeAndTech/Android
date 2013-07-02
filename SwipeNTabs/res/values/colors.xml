@@ -1,0 +1,7 @@
+<resources>
+	<color name ="title_color">#0099CC</color>
+	<color name="h1_color">#FF66FF</color>
+	<color name="h2_color">#3366CC</color>
+	<color name="para_color">#0033CC</color>
+	<color name="bg_color">#FFFFFF</color>
+</resources>
